@@ -3,7 +3,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 /**
- * Created by yinchanglei on 2017/8/17 2017-8-17 22:33:59.
+ * Created by yinchanglei on 2017/8/17 2017-8-22 22:33:59.
  */
 public class CutScreen extends JFrame implements ActionListener {
 
